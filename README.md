@@ -9,12 +9,15 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
 </div>
+<<<<<<< HEAD
   ##
+=======
+</font>
+##
+>>>>>>> 5b7a093e804bd6b8a9bfc47c1fe8c3f309515d88
  
 <div> 
   <a href="https://instagram.com/Mathe_zzz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anderson-matheuzzz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Mathezzz/Mathezzz/blob/output/github-contribution-grid-snake.svg)
  
 </div>
