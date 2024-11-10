@@ -50,7 +50,5 @@ Sou um profissional apaixonado por dados e tecnologia, com formação em Ciênci
 <div> 
   <a href="https://instagram.com/Mathe_zzz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anderson-matheuzzz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.zdatascience.com/" target="_blank">SITE Z Data Science</a>
-
  
 </div>
