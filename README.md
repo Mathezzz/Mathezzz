@@ -2,6 +2,9 @@
 
 **AI Engineer · IA Generativa · Agentes de IA · Python**
 
+🌐 **[Visite meu portfólio](https://automaclube.com/)** — projetos, estudos de
+caso, serviços e conteúdo sobre engenharia de IA, dados e automação.
+
 ## Sobre
 
 Sou engenheiro de IA e gosto de trabalhar na interseção entre modelos, dados e
@@ -15,35 +18,41 @@ estruturar o fluxo, integrar ferramentas e dados e construir a aplicação ao
 redor. Acredito que uma boa solução de IA depende tanto da escolha do modelo
 quanto da qualidade das fontes, das validações e da experiência de uso.
 
-## Temas que exploro
+## Como trabalho
 
-- **Agentes e orquestração:** fluxos com LangGraph, LangChain e DeepAgents,
-  ferramentas, roteamento condicional e saídas estruturadas.
-- **Busca e contexto:** RAG, busca semântica e embeddings para conectar LLMs a
-  documentos, APIs e dados estruturados.
-- **Automação e integração:** Python, n8n, webhooks e APIs REST para reduzir
-  tarefas manuais e aproximar sistemas.
-- **Aplicações de ponta a ponta:** backends com FastAPI, processamento
-  assíncrono e publicação no Google Cloud Run.
-- **Dados para análise:** SQL, MySQL, BigQuery, pipelines e dashboards com
-  Power BI.
-- **Experimentação e observabilidade:** modelos locais e provedores de LLM,
-  avaliados com ferramentas como Ollama, LangSmith e MLflow.
+Gosto de começar pelo problema, não pela tecnologia. Entendo os dados e o
+processo atual, desenho uma arquitetura adequada e desenvolvo a solução de
+forma iterativa, com testes e validações. O objetivo é chegar a algo utilizável,
+documentado e pronto para operar — não apenas a uma demonstração.
+
+## Frentes que exploro
+
+- **Agentes e aplicações de IA:** agentes conectados a ferramentas, APIs e
+  bases de conhecimento, com fluxos orquestrados em LangGraph, LangChain ou
+  DeepAgents.
+- **RAG e busca:** recuperação híbrida e semântica para fundamentar respostas
+  em documentos e dados relevantes.
+- **Automação e integração:** workflows, webhooks e APIs para conectar
+  aplicações e reduzir etapas manuais.
+- **Dados e inteligência operacional:** engenharia de dados, relatórios,
+  dashboards e soluções que apoiam decisões.
 
 ## Projetos
 
-### [Transparenc.IA](https://portal-transparencia.automaclube.com/)
+### [Transparenc.IA](https://automaclube.com/projetos/transparencia-ia)
 
-Um agente para explorar dados públicos de Mossoró por meio de perguntas em
-linguagem natural. O projeto integra APIs e ferramentas que tratam os dados
-antes de apresentá-los como respostas.
+Agente para investigar receitas, despesas, licitações, contratos, indicações
+legislativas e obras de Mossoró em linguagem natural. Integra fontes públicas a
+ferramentas de consulta que organizam os dados antes de apresentá-los.
+[Acessar a aplicação](https://portal-transparencia.automaclube.com/).
 
-### [InvestIA](https://investia.automaclube.com/)
+### [InvestIA](https://automaclube.com/projetos/investia)
 
-Uma aplicação educacional que explora análise de ações, CAPM/Beta e otimização
-de carteiras. O agente conduz a interação e explica os resultados; os cálculos
-financeiros são realizados por ferramentas determinísticas em Python. **Não é
-uma recomendação de investimento.**
+Uma POC educacional para explorar análise de ações, otimização de carteiras de
+Markowitz, CML e CAPM/Beta. O agente interpreta perguntas e explica resultados;
+os cálculos são feitos por ferramentas determinísticas em Python, com testes.
+**Não é uma recomendação de investimento.**
+[Acessar a aplicação](https://investia.automaclube.com/).
 
 ### [Analistas de Relatórios MySQL](https://github.com/Mathezzz/crewai_mysql_relatorio_builder)
 
