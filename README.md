@@ -1,54 +1,75 @@
-## **Anderson Matheus** - Cientista de Dados e Engenheiro de Produção
+# Anderson Matheus
 
-**Sobre mim:**
+**AI Engineer · IA Generativa · Agentes de IA · Python**
 
-Sou um profissional apaixonado por dados e tecnologia, com formação em Ciência e Tecnologia, pós-graduação em Ciência de Dados e atualmente cursando Engenharia de Produção. Atuo como analista estratégico de franquias em uma startup de tecnologia de delivery.
+## Sobre
 
-**Habilidades:**
+Sou engenheiro de IA e gosto de trabalhar na interseção entre modelos, dados e
+software. Interessa-me especialmente transformar uma capacidade de LLM em algo
+que possa ser usado de verdade: um agente que consulta informações, uma
+automação que conecta sistemas ou uma aplicação que ajuda alguém a entender um
+problema complexo.
 
-* **Ciência de Dados:** Python, SQL, Machine Learning (SciKit-Learn, CNN, YOLO, Dlib, OpenCV), Streamlit, Power BI
-* **Engenharia:** Arduino, Raspberry Pi, ESP
-* **Análise de Dados:** Estatística, ETL, Visualização de Dados, Modelos Preditivos
-* **Soft Skills:** Trabalho em equipe, resolução de problemas, comunicação técnica
+Nos projetos, procuro cuidar do caminho completo — entender a necessidade,
+estruturar o fluxo, integrar ferramentas e dados e construir a aplicação ao
+redor. Acredito que uma boa solução de IA depende tanto da escolha do modelo
+quanto da qualidade das fontes, das validações e da experiência de uso.
 
-**Projetos:**
+## Temas que exploro
 
-* **Dashboard Interativo:** Desenvolvido em Streamlit para visualização de dados de negócios.
-* **Visão Computacional:** Modelo de detecção de objetos para aplicações agrícolas.
-* **Processamento de Linguagem Natural:** Experimentação com modelos de linguagem para diversas tarefas.
-* **Análise de Franquias:** Otimização de processos e tomada de decisão baseada em dados.
+- **Agentes e orquestração:** fluxos com LangGraph, LangChain e DeepAgents,
+  ferramentas, roteamento condicional e saídas estruturadas.
+- **Busca e contexto:** RAG, busca semântica e embeddings para conectar LLMs a
+  documentos, APIs e dados estruturados.
+- **Automação e integração:** Python, n8n, webhooks e APIs REST para reduzir
+  tarefas manuais e aproximar sistemas.
+- **Aplicações de ponta a ponta:** backends com FastAPI, processamento
+  assíncrono e publicação no Google Cloud Run.
+- **Dados para análise:** SQL, MySQL, BigQuery, pipelines e dashboards com
+  Power BI.
+- **Experimentação e observabilidade:** modelos locais e provedores de LLM,
+  avaliados com ferramentas como Ollama, LangSmith e MLflow.
 
-**Experiência:**
+## Projetos
 
-* **Indústria:** Análise de dados em uma startup de tecnologia de delivery.
-* **Acadêmico:** Desenvolvimento de projetos de pesquisa em visão computacional e aprendizado de máquina.
-* **Freelancer:** Consultoria em análise de dados e desenvolvimento de aplicações.
+### [Transparenc.IA](https://portal-transparencia.automaclube.com/)
 
-**Interesses:**
+Um agente para explorar dados públicos de Mossoró por meio de perguntas em
+linguagem natural. O projeto integra APIs e ferramentas que tratam os dados
+antes de apresentá-los como respostas.
 
-* **Aprendizado de Máquina:** Exploração de novas técnicas e algoritmos.
-* **Visão Computacional:** Desenvolvimento de soluções inovadoras para problemas do mundo real.
-* **Automação:** Criação de ferramentas para otimizar processos.
+### [InvestIA](https://investia.automaclube.com/)
 
-**Blog e Conteúdo:**
+Uma aplicação educacional que explora análise de ações, CAPM/Beta e otimização
+de carteiras. O agente conduz a interação e explica os resultados; os cálculos
+financeiros são realizados por ferramentas determinísticas em Python. **Não é
+uma recomendação de investimento.**
 
-* **<a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7202653532963934210">Uma Pitada de Dados</a>:** Newsletter com conteúdos sobre ciência de dados para iniciantes, clique e assine.
-* **<a href="https://andersonmmelo23.wixsite.com/anderson-matheuz/portfolio">Portfólio em Construção</a>:** Blog com tutoriais e projetos em breve.
+### [Analistas de Relatórios MySQL](https://github.com/Mathezzz/crewai_mysql_relatorio_builder)
 
-**Objetivos:**
+Uma crew de agentes com CrewAI que consulta dados de negócio em MySQL e organiza
+os resultados em relatórios Markdown.
 
-* **Ciência de Dados:** Atuar diretamente em projetos de Machine Learning.
-* **Inovação:** Aplicar novas tecnologias para resolver problemas complexos.
-* **Comunidade:** Compartilhar conhecimento e inspirar outros profissionais.
+### [101 de frontend para LangGraph](https://github.com/Mathezzz/langgraph-front)
 
-**Conecte-se:**
-* LinkedIn: <a href="https://www.linkedin.com/in/anderson-matheuzzz/">Conecte-se comigo no LinkedIn</a>
-* Email: andersonmmelo23@outlook.com
+Uma coleção de experimentos didáticos sobre como uma interface React pode
+interagir com grafos LangGraph, incluindo roteamento condicional e
+Human-in-the-Loop.
 
-**#cienciadados #machinelearning #python #datascience #dataanalysis #streamlit**
- 
-<div> 
-  <a href="https://instagram.com/Mathe_zzz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anderson-matheuzzz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+## Ferramentas e tecnologias
+
+| Área | Tecnologias |
+|---|---|
+| IA e agentes | Python, LLMs, LangGraph, LangChain, DeepAgents, RAG, embeddings, structured output, OpenAI API, Gemini API |
+| Backend e integração | FastAPI, APIs REST, webhooks, n8n, Google Cloud Run |
+| Dados e analytics | SQL, MySQL, PostgreSQL, Google BigQuery, Power BI |
+| Observabilidade e experimentação | LangSmith, MLflow, Ollama |
+
+## Contato
+
+Estou sempre aberto a conversar sobre aplicações de IA, engenharia de agentes
+e maneiras práticas de integrar dados e sistemas.
+
+- [LinkedIn](https://www.linkedin.com/in/anderson-matheuzzz/)
+- [GitHub](https://github.com/Mathezzz)
+- [Email](mailto:andersonmmelo23@outlook.com)
